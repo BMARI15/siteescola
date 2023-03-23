@@ -8,21 +8,24 @@ display:flex;
 justify-content: space-around;
 padding: 24px 0;
 }
+
 .cabecalho-imagem{width: 9%;}
 .cabecalho-lista-item{
     display:inline-block;
     margin: 0 16px;
-    padding: 70px 0;
-    font-size: 35px;}
-    h1 {
+    padding: 30px 0;
+    font-size: 20px;}
+    h1 
+    {
         display:inline-block;
-        margin: 0 16px;
-        padding: 80px 0;
-        font-size: 40px;
+        margin: 0 12px;
+        padding: 30px 0;
+        font-size: 30px;
     }
     .escola-imagem{
-width: 100%;
+width: 18%;
   }
+
 .escola{
     background-image: linear-gradient(rgb(133, 8, 8), black );
     color:peachpuff;
@@ -30,4 +33,13 @@ width: 100%;
     justify-content: center;
     align-items: center;
    padding: 24px 0;
+
+  }
+  .escola-conteudo
+  {width: 50%}
+
+  .escola-titulo
+  {padding: 50px 30px;}
+  .aluno-um{
+    width: 13%;
   }
