@@ -41,5 +41,19 @@ width: 18%;
   .escola-titulo
   {padding: 50px 30px;}
   .aluno-um{
-    width: 13%;
+    width: 15%;
   }
+  .estudante-icone
+  {width: 64px;}
+
+  .estudante-div
+  {text-align: center;}
+
+  .aluno-dois{
+    width: 15%;
+  }
+  .estudante-icone
+  {width: 64px;}
+
+  .estudante-div2
+  {text-align: center;}
