@@ -45,7 +45,8 @@ width: 18%;
   .escola-titulo
   {padding: 50px 30px;}
   .aluno-um{
-    width: 15%;
+    width: 45%;
+    height: 200px;
   }
   .estudante-icone
   {width: 64px;}
@@ -54,13 +55,11 @@ width: 18%;
   {text-align: center;}
 
   .aluno-dois{
-    width: 12%;
+    width: 40%;
+    height: 199px;
   }
   .estudante-icone
   {width: 64px;}
-
-  .estudante-div2
-  {text-align: center;}
 
 
   .alunos-titulo
@@ -68,7 +67,7 @@ width: 18%;
     text-align: center;
     padding: 50px 0;
   }
-  .etudante-todos{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+  .estudantes-todos{
+    display: grid; 
+    grid-template-columns: 26% 20% 26% 26%;
   }
